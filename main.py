@@ -3,5 +3,5 @@ def greet(denis):
 
 greet("World")
 
-def SUMMA(a,b):
-    return a+b
+def calculate_sum(a, b):
+    return a + b
